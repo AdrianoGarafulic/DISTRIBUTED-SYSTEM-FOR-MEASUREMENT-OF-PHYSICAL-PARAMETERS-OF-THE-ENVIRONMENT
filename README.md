@@ -27,3 +27,5 @@ Flow diagram of Croduino Nova2 subsystem
 
 # 3.  Subsystem Raspberry PI
 
+![](Images/blok%20rasp.png)
+
