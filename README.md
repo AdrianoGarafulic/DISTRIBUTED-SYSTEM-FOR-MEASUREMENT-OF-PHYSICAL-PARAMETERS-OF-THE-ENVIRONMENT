@@ -5,17 +5,19 @@ Distributed system for collecting and displaying meteorological data to remote u
 
 # 1.  Subsystem Arduino Industrial 101
 
-Wiring diagram subsystem Arduino Industrial 101 (Fritzing)
+
 
 ![](Images/fritzing%20ind.png)
 
-Flow diagram of  Arduino industrial 101 subsystem
+Wiring diagram subsystem Arduino Industrial 101 (Fritzing)
 
 ![](Images/blok%20ind.png)
+Flow diagram of  Arduino industrial 101 subsystem
 
 
 ![](Images/frizing%20nova.png)
 
+# 2.  Subsystem Croduino nova
 
 Flow diagram of Croduino Nova2 subsystem
 
