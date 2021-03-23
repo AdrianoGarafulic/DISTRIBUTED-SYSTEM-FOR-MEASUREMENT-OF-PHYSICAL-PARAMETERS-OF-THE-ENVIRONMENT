@@ -4,6 +4,7 @@ Distributed system for collecting and displaying meteorological data to remote u
 ![](Images/Meteopostaja%20kompl%20prikaz.png)
 
 ![](Images/trenutna%20mjerenja.png)
+![](Images/podaci%20iz%20prošlosti.png)
 
 # 1.  Subsystem Arduino Industrial 101
 
