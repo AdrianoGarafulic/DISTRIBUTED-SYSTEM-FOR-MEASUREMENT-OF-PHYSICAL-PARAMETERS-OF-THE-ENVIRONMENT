@@ -25,7 +25,7 @@ Wiring diagram subsystem Arduino Industrial 101 (Fritzing)
 
 Flow diagram of  Arduino industrial 101 subsystem
 
-![](Images/WhatsApp%20Image%202020-09-21%20at%2015.54.07%20(1).jpeg)
+![](Images/WhatsApp%20Image%202020-09-21%20at%2015.54.08%20(1).jpeg)
 
 # 2.  Subsystem Croduino nova
 
@@ -37,7 +37,7 @@ Wiring diagram of Croduino Nova2 subsystem
 
 Flow diagram of Croduino Nova2 subsystem
 
-![](Images/WhatsApp%20Image%202020-09-21%20at%2015.54.08%20(1).jpeg)
+![](Images/WhatsApp%20Image%202020-09-21%20at%2015.54.07%20(1).jpeg)
 
 # 3.  Subsystem Raspberry PI
 
