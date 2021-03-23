@@ -3,6 +3,8 @@ Distributed system for collecting and displaying meteorological data to remote u
 
 ![](Images/Meteopostaja%20kompl%20prikaz.png)
 
+# 1.  Subsystem Arduino Industrial 101
+
 Wiring diagram subsystem Arduino Industrial 101 (Fritzing)
 
 ![](Images/fritzing%20ind.png)
