@@ -10,6 +10,8 @@ purchased web domain was redirected to the system application interface.
 
 ![](Images/Meteopostaja%20kompl%20prikaz.png)
 
+The figure shows the complete distributed system. It is divided into three subsystems. The Croduino Nova2 subsystem with the associated sensors is shown in brown, and the Arduino Industrial 101 subsystem with the associated sensors is shown in green. In the local network, they communicate with Raspbery PI through MQTT broker. The Raspberry PI subsystem is highlighted in red, with locally installed tools and services for storing and displaying data locally, and services for port forwarding to the Internet. The part that takes place on the Internet, outside the local network, is marked in blue, in order to give the remote user access to the Node-RED application of this system via the web domain.
+
 ![](Images/trenutna%20mjerenja.png)
 ![](Images/podaci%20iz%20prošlosti.png)
 
