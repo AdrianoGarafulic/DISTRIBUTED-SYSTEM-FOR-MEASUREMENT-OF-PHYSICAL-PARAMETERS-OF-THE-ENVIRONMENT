@@ -29,3 +29,5 @@ Flow diagram of Croduino Nova2 subsystem
 
 ![](Images/blok%20rasp.png)
 
+![](Images/trenutna%20mjerenja.png)
+
