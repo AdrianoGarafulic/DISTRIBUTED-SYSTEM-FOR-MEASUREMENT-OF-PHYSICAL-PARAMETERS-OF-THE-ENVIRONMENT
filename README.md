@@ -43,5 +43,9 @@ Flow diagram of Croduino Nova2 subsystem
 
 # 3.  Subsystem Raspberry PI
 
+The third subsystem consists of a Raspbery PI microcomputer with SQLite database,NGINX web server, eclipse MQTT broker and a Node-RED framework.
+NGINX web server is used to reverse the proxy redirect port that displays the Node-RED application user interface to port 80 that supports the Dataplicity service. The user interface of the Node-RED application is redirected to the Dataplicity web service via a Dataplicity agent installed locally on the raspberry PI.
+
+
 ![](Images/blok%20rasp.png)
 
