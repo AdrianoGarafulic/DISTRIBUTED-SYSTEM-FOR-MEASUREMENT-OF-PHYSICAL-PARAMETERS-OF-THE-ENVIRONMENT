@@ -3,6 +3,8 @@ Distributed system for collecting and displaying meteorological data to remote u
 
 ![](Images/Meteopostaja%20kompl%20prikaz.png)
 
+![](Images/trenutna%20mjerenja.png)
+
 # 1.  Subsystem Arduino Industrial 101
 
 
@@ -29,5 +31,4 @@ Flow diagram of Croduino Nova2 subsystem
 
 ![](Images/blok%20rasp.png)
 
-![](Images/trenutna%20mjerenja.png)
 
