@@ -17,12 +17,11 @@ Flow diagram of  Arduino industrial 101 subsystem
 
 # 2.  Subsystem Croduino nova
 
-![](Images/blok%20nova.png)
+![](Images/frizing%20nova.png)
 
 Wiring diagram of Croduino Nova2 subsystem
 
-
-![](Images/frizing%20nova.png)
+![](Images/blok%20nova.png)
 
 Flow diagram of Croduino Nova2 subsystem
 
