@@ -1,6 +1,12 @@
 # DISTRIBUTED-SYSTEM-FOR-MEASUREMENT-OF-PHYSICAL-PARAMETERS-OF-THE-ENVIRONMENT
-Distributed system for collecting and displaying meteorological data to remote users. An overview of numerous tools and approaches used for the realization of the diploma thesis is given. At the sensor or microcontroller level, various libraries in the Arduino IDE environment were used, a dynamic calibration of the SGP30 sensor was performed, as well as dual voltage cycles for the MQ7 sensor, and a routine with interrupts for reading values from the anemometer was implemented. At the level of the local network or microcomputer, the MQTT protocol, SQLite database, Node-RED tool, NGINX server as a reverse proxy, Dataplicity agent were used. The Dataplicity tool as well as the purchased web domain has been used at the Internet level for remote access. The system has been tested for most faults that may occur in continuous system operation, such as continued system operation if a single sensor or subsystem fails, system resume when resetting each subsystem individually or all subsystems, system resumption in case of current local network unavailability or the router reset.
 
+As part of the thesis, a system was created that gives remote users at http://www.nerezisca-meteo.com/ an insight into
+current meteorological data as well as historical data display. The parameters to be measured are temperature, humidity, air
+pressure, solar radiation, wind speed and direction, carbon dioxide, carbon monoxide and air quality. The system collects
+data from sensors using two Arduino microcontrollers and sends them over the local TCP / IP network using the MQTT
+protocol to the Raspberry PI on which uses the Node-RED framework to store data in a SQLite database and display
+meteorological data locally on the system application interface. Using the NGINX web server and Dataplicity service, the
+purchased web domain was redirected to the system application interface.
 ![](Images/Meteopostaja%20kompl%20prikaz.png)
 ![](Images/WhatsApp%20Image%202020-09-21%20at%2015.54.07%20(1).jpeg)
 ![](Images/WhatsApp%20Image%202020-09-21%20at%2015.54.08%20(1).jpeg)
